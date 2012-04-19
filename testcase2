@@ -1,0 +1,71 @@
+Script started on Tue Mar 27 22:44:43 2012
+]0;blandino@u-05: ~/Desktop/Proj8blandino@u-05:~/Desktop/Proj8$ ./slot.out 
+enter file name:
+datafile
+--- Menu ---
+[N]ew Machine
+[P]revious Machine 
+[S]pin Reels 
+[L]ist Reels 
+[Q]uit 
+------------
+p
+enter file name:
+config
+  orange  3  cherry  1   lemon  4       7  8     bar  0    bell  2 diamond  9
+     bar  0  orange  3  orange  3       7  8  orange  3  orange  3  orange  3
+     bar  0    bell  2   lemon  4 diamond  9  orange  3 diamond  9  cherry  1
+ diamond  9    bell  2     bar  0       7  8  orange  3       7  8       7  8
+  cherry  1    bell  2    bell  2    bell  2       7  8  cherry  1  cherry  1
+ diamond  9  orange  3  orange  3     bar  0       7  8  cherry  1   lemon  4
+     bar  0 diamond  9 diamond  9       7  8   lemon  4  cherry  1   lemon  4
+  orange  3    bell  2       7  8    bell  2   lemon  4     bar  0   lemon  4
+ diamond  9     bar  0    bell  2    bell  2       7  8   lemon  4 diamond  9
+       7  8     bar  0  cherry  1    bell  2  orange  3  orange  3   lemon  4
+--- Menu ---
+[N]ew Machine
+[P]revious Machine 
+[S]pin Reels 
+[L]ist Reels 
+[Q]uit 
+------------
+s
+Reel paylines displayed horizontally
+ diamond  9  cherry  1 diamond  9     bar  0  orange  3 diamond  9       7  8
+  orange  3    bell  2    bell  2    bell  2  orange  3 diamond  9    bell  2
+   lemon  4  orange  3   lemon  4     bar  0    bell  2  orange  3 diamond  9
+    bell  2       7  8       7  8 diamond  9       7  8    bell  2     bar  0
+  orange  3  orange  3       7  8       7  8   lemon  4   lemon  4       7  8
+  cherry  1  cherry  1  cherry  1     bar  0   lemon  4  orange  3    bell  2
+   lemon  4   lemon  4 diamond  9   lemon  4 diamond  9  orange  3  cherry  1
+
+Diagonal Paylines
+ diamond  9    bell  2   lemon  4 diamond  9   lemon  4  orange  3  cherry  1
+   lemon  4  cherry  1       7  8 diamond  9    bell  2 diamond  9       7  8
+--- Menu ---
+[N]ew Machine
+[P]revious Machine 
+[S]pin Reels 
+[L]ist Reels 
+[Q]uit 
+------------
+l
+     bar  0
+  cherry  1
+    bell  2
+  orange  3
+   lemon  4
+       7  8
+ diamond  9
+--- Menu ---
+[N]ew Machine
+[P]revious Machine 
+[S]pin Reels 
+[L]ist Reels 
+[Q]uit 
+------------
+q
+]0;blandino@u-05: ~/Desktop/Proj8blandino@u-05:~/Desktop/Proj8$ exit
+exit
+
+Script done on Tue Mar 27 22:45:03 2012
